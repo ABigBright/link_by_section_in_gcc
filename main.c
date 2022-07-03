@@ -11,7 +11,7 @@ void _libok(void);
 void raise(void)
 {}
 
-void main(void)
+int main(void)
 {
     unsigned long long a = 124343;
     unsigned long res = 0;
